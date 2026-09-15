@@ -1,6 +1,7 @@
 {
-  "name": "closet-labs",
+  "name": "stylesense-ai",
   "version": "0.1.0",
+  "description": "AI-powered fashion search engine built with Next.js, TypeScript, CLIP AI, and Supabase.",
   "private": true,
   "scripts": {
     "dev": "next dev",
