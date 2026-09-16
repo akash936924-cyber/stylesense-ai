@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 /*
- * Closet Labs design tokens — "quiet luxury" glassmorphism.
+ * StyleSense AI design tokens — "quiet luxury" glassmorphism.
  * Everything reads from these variables; components almost never
  * need dark: variants because the tokens flip with the .dark class.
  */

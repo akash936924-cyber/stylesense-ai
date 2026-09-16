@@ -16,7 +16,7 @@ const fraunces = Fraunces({
 });
 
 export const metadata: Metadata = {
-  title: "Closet Labs",
+  title: "StyleSense AI",
   description:
     "Find clothes for sale from color palettes and inspo — then style them on a model.",
 };

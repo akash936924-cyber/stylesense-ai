@@ -1,4 +1,4 @@
--- Closet Labs initial schema. Multi-user from day 1 (user_id everywhere);
+-- StyleSense AI initial schema. Multi-user from day 1 (user_id everywhere);
 -- RLS policies land in the auth phase. Apply with: supabase db push
 create extension if not exists vector;
 
